@@ -232,7 +232,7 @@ function draw() {
   b57.scores();
   b58.scores();
   b59.scores();
-  fill(250);
+  fill(20);
   strokeWeight(3);
   textSize(20);
   text("SCORE: " + score, 50, 40);
